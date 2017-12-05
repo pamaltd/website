@@ -27,7 +27,7 @@
 
 #home-heading {
   position: relative;
-  min-height: 200px;
+  min-height: 250px;
   background: url("../img/lights.jpg");
   background-attachment: fixed;
   background-repeat: no-repeat;
@@ -63,6 +63,24 @@
   height: 200px;
   background: url("../img/image1.jpg");
   background-position: 0 -360px;
+  background-attachment: fixed;
+  color: #fff;
+  border-bottom: 1px #eee solid;
+  padding-top: 50px; }
+
+#page-header-2 {
+  height: 235px;
+  background: url("../img/turnstile2.jpg");
+  background-position: 10 -300px;
+  background-attachment: fixed;
+  color: #fff;
+  border-bottom: 1px #eee solid;
+  padding-top: 50px; }
+
+#surveillance-header {
+  height: 235px;
+  background: url("../img/surveillance.jpg");
+  background-position: 10 -300px;
   background-attachment: fixed;
   color: #fff;
   border-bottom: 1px #eee solid;
