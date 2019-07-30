@@ -12,7 +12,8 @@
   "dependencies": {
     "bootstrap": "4.0.0-alpha.6",
     "font-awesome": "^4.7.0",
-    "gh-pages": "^2.0.1"
+    "gh-pages": "^2.0.1",
+    "wow.js": "^1.2.2"
   },
   "devDependencies": {
     "browser-sync": "^2.18.13",
